@@ -6,6 +6,6 @@ Proyecto para poder llevar un registro de personal.
 
 Se almacenan en el localstorage los siguientes datos:
 
-*Nombre
-*Edad
-*Dpi
+* Nombre
+* Edad
+* Dpi
